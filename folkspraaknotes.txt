@@ -1,0 +1,1012 @@
+
+FROM:	Edmund Grimley-Evans, INTERNET:Edmund.Grimley-Evans@cl.cam.ac.uk
+TO:	Jeffrey Henning, 74774,157
+DATE:	12/8/95 12:09 PM
+
+Re:	Re: CONLANG: Folkspraak: help us create this language!
+
+Sender: edmund.grimley-evans@cl.cam.ac.uk
+Received: from bescot.cl.cam.ac.uk by dub-img-1.compuserve.com (8.6.10/5.950515)
+	id LAA12262; Fri, 8 Dec 1995 11:36:05 -0500
+Received: from nene.cl.cam.ac.uk [128.232.1.86] (etg10)
+	by bescot.cl.cam.ac.uk with esmtp (Exim 0.21 #1)
+	id E0tO5ll-0006zF-00; Fri, 8 Dec 1995 16:35:33 +0000
+X-Mailer: exmh version 1.6.4+cl+patch 10/10/95
+To: Jeffrey Henning <langmaker@langmaker.com>
+Subject: Re: CONLANG: Folkspraak: help us create this language! 
+In-reply-to: Your message of "07 Dec 1995 23:43:14 EST."
+             <951208044313_74774.157_EHL129-1@CompuServe.COM> 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Fri, 08 Dec 1995 16:35:32 +0000
+From: Edmund Grimley-Evans <Edmund.Grimley-Evans@cl.cam.ac.uk>
+Message-Id: <E0tO5ll-0006zF-00@bescot.cl.cam.ac.uk>
+
+> [Verbs end in /-en/.]
+
+You already have some exceptions: gaan, habban, seen, do
+
+Have you looked to see if any useful dictionaries of Germanic 
+languages are on-line somewhere?
+
+Do all the Germanic languages have different subject and object forms 
+for pronouns? I suppose so.
+
+Edmund
+
+
+FROM:	Lars Henrik Mathiesen, INTERNET:thorinn@diku.dk
+TO:	Jeffrey Henning, 74774,157
+DATE:	12/8/95 8:23 AM
+
+Re:	Re: CONLANG: Folkspraak: help us create this language!
+
+Sender: thorinn@diku.dk
+Received: from odin.diku.dk by arl-img-4.compuserve.com (8.6.10/5.950515)
+	id IAA14777; Fri, 8 Dec 1995 08:18:56 -0500
+Received: from tyr.diku.dk (thorinn@tyr.diku.dk [130.225.96.226]) by odin.diku.dk (8.6.12/8.6.12) with ESMTP id OAA10672 for <langmaker@langmaker.com>; Fri, 8 Dec 1995 14:18:54 +0100
+Received: (thorinn@localhost) by tyr.diku.dk (8.6.12/8.6.12) id OAA27725; Fri, 8 Dec 1995 14:18:51 +0100
+Date: Fri, 8 Dec 1995 14:18:51 +0100
+Message-Id: <199512081318.OAA27725@tyr.diku.dk>
+From: Lars Henrik Mathiesen <thorinn@diku.dk>
+To: langmaker@langmaker.com
+In-reply-to: <951208044313_74774.157_EHL129-1@CompuServe.COM> (message from
+	Jeffrey Henning on 07 Dec 95 23:43:14 EST)
+Subject: Re: CONLANG: Folkspraak: help us create this language!
+
+Please try to get a newer Danish dictionary. Your spellings are from
+before the 1948 reform.
+
+   Date: 07 Dec 95 23:43:14 EST
+   From: Jeffrey Henning <langmaker@langmaker.com>
+
+       spraak
+   DA  Sprog
+"sprog"
+
+       do
+   !!  doon
+Or vice versa.
+   DA  g0re
+
+       maken
+   !!  make
+   DA  g0re
+Obsolescent in this sense. Use "lave".
+
+       gaan
+   DA  gaa
+"ga*".
+
+       given
+   DA  given
+"give".
+
+       master
+   !!  master
+   DA  mester
+"mester". (Of a trade or championship. Obs. in sense ``superior.'')
+
+Lars Mathiesen (U of Copenhagen CS Dep) <thorinn@diku.dk> (Humour NOT marked)
+
+FROM:	Jeffrey Henning, 74774,157
+TO:	Edmund Grimley-Evans, INTERNET:Edmund.Grimley-Evans@cl.cam.ac.uk
+DATE:	12/8/95 1:10 PM
+
+Re:	Copy of: Re: CONLANG: Folkspraak: help us create this language!
+
+>>> [Verbs end in /-en/.]
+
+>>You already have some exceptions: gaan, habban, seen, do
+
+I meant to write "Verbs end in /-Vn/."  Thanks for catching it.
+
+>>Have you looked to see if any useful dictionaries of Germanic 
+>>languages are on-line somewhere?
+
+Rick Harrison has a German and Dutch dictionary.
+
+
+>>Do all the Germanic languages have different subject and object forms 
+>>for pronouns? I suppose so.
+
+I'll do the pronouns next!
+
+Regards,
+Jeffrey
+FROM:	Jeffrey Henning, 74774,157
+TO:	Lars Henrik Mathiesen, INTERNET:thorinn@diku.dk
+DATE:	12/8/95 1:13 PM
+
+Re:	Copy of: Re: CONLANG: Folkspraak: help us create this language!
+
+>> Please try to get a newer Danish dictionary. Your spellings are from
+>> before the 1948 reform.
+
+It's a 1944 dictionary.  Being cheap I tend to purchase these secondhand.  Thanks 
+for alerting me!
+
+Do you know of any electronic word lists?
+
+Regards,
+
+Jeffrey
+FROM:	Edmund Grimley-Evans, INTERNET:Edmund.Grimley-Evans@cl.cam.ac.uk
+TO:	Jeffrey Henning, 74774,157
+DATE:	12/8/95 5:19 PM
+
+Re:	Re: CONLANG: Folkspraak: help us create this language!
+
+Sender: edmund.grimley-evans@cl.cam.ac.uk
+Received: from bescot.cl.cam.ac.uk by dub-img-1.compuserve.com (8.6.10/5.950515)
+	id QAA25980; Fri, 8 Dec 1995 16:49:08 -0500
+Received: from nene.cl.cam.ac.uk [128.232.1.86] (etg10)
+	by bescot.cl.cam.ac.uk with esmtp (Exim 0.21 #1)
+	id E0tOAej-000735-00; Fri, 8 Dec 1995 21:48:37 +0000
+X-Mailer: exmh version 1.6.4+cl+patch 10/10/95
+To: Jeffrey Henning <langmaker@langmaker.com>
+Subject: Re: CONLANG: Folkspraak: help us create this language! 
+In-reply-to: Your message of "08 Dec 1995 13:14:44 EST."
+             <951208181443_74774.157_EHL95-2@CompuServe.COM> 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Fri, 08 Dec 1995 21:48:36 +0000
+From: Edmund Grimley-Evans <Edmund.Grimley-Evans@cl.cam.ac.uk>
+Message-Id: <E0tOAej-000735-00@bescot.cl.cam.ac.uk>
+
+> >>You already have some exceptions: gaan, habban, seen, do
+> 
+> I meant to write "Verbs end in /-Vn/."  Thanks for catching it.
+
+Wasn't "do" one of your verbs?
+
+
+FROM:	Dale Morris, INTERNET:dmorris@tenet.edu
+TO:	Jeffrey Henning, 74774,157
+DATE:	12/8/95 7:59 PM
+
+Re:	Re: CONLANG: Folkspraak: help us create this language!
+
+Sender: dmorris@tenet.edu
+Received: from francis.tenet.edu by dub-img-3.compuserve.com (8.6.10/5.950515)
+	id TAA24372; Fri, 8 Dec 1995 19:54:55 -0500
+Received: (from dmorris@localhost) by francis.tenet.edu (8.7.1/8.7.1) id SAA19208; Fri, 8 Dec 1995 18:54:54 -0600 (CST)
+Date: Fri, 8 Dec 1995 18:54:53 -0600 (CST)
+From: Dale Morris <dmorris@tenet.edu>
+To: Jeffrey Henning <langmaker@langmaker.com>
+Subject: Re: CONLANG: Folkspraak: help us create this language!
+In-Reply-To: <951208044313_74774.157_EHL129-1@CompuServe.COM>
+Message-ID: <Pine.OSF.3.91.951208184542.7146A-100000@francis.tenet.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+   I think that Folkspraak is a wonderfull idea!  I would like to assist, 
+and I am currently compiling some lists of germanic words.  I had an idea 
+for the vowels.  I dont know how, but there might be some way to actually 
+asign each vowel a value (based on rounding, front/back, etc.) and 
+average these.  That at least would give a basic idea.
+   While I think getting rid of gender would be great, I dont think 
+English should be held exaclty equal to the other langs.  I mean, it is 
+spoken by more people and all, but (of course) is the most un-Germanic of 
+the languages!  
+   It also might be good to only use vowels with ASCII values, so they 
+could be printed on the net more easily (hmm...maybe not, HTML sure is 
+wacky about those letters past the basic 26 ...).  
+   I think it would be worthwile to also get a body of examples of how 
+verbs are declined, so everyone can see how they work.
+
+
+   More later ...
+
+   Dale Morris
+
+FROM:	Dale Morris, INTERNET:dmorris@tenet.edu
+TO:	Jeffrey Henning, 74774,157
+DATE:	12/8/95 10:31 PM
+
+Re:	Re: CONLANG: Folkspraak: help us create this language!
+
+Sender: dmorris@tenet.edu
+Received: from francis.tenet.edu by arl-img-1.compuserve.com (8.6.10/5.950515)
+	id WAA11482; Fri, 8 Dec 1995 22:18:11 -0500
+Received: (from dmorris@localhost) by francis.tenet.edu (8.7.1/8.7.1) id VAA22887; Fri, 8 Dec 1995 21:18:10 -0600 (CST)
+Date: Fri, 8 Dec 1995 21:18:09 -0600 (CST)
+From: Dale Morris <dmorris@tenet.edu>
+To: Jeffrey Henning <langmaker@langmaker.com>
+Subject: Re: CONLANG: Folkspraak: help us create this language!
+In-Reply-To: <951209021041_74774.157_EHL114-1@CompuServe.COM>
+Message-ID: <Pine.OSF.3.91.951208210734.7146D-100000@francis.tenet.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+
+On 8 Dec 1995, Jeffrey Henning wrote:
+
+> There are already dictionaries for German and Dutch online.  The next best
+> language to have (because of number of speakers) would be Swedish.  I can e-mail
+> you a file containing German, Dutch and English and you can pick a part of it to
+> hack away at, if you want.  But before you do that...
+> 
+   I have the German and Dutch.  In the _Loom of Language_ there are 
+medium to  large vocabs for Sweedish and Danish.
+
+  Im working the math model, it could be awhile.  I may need some help on 
+it.  I have a working modle of the vowel system.  It will be in the first 
+post... 
+
+> Then, of course, how to spell these vowels?  I like having unique two-vowel
+> labels using just 'aeiou' (e.g., 'aa') that invariably represent the same sound.
+> No umlauts, slashes or circumflexes!  :-)
+> 
+
+     I definately agree.  I used AA and UU.
+
+
+> So, Dale, what would you like to do next?  I'd love to make you the
+> "vowelmaister", in charge of defining the vowel system, with an umlaut here, and
+> an umlaut there, e i e i o.  Are you up to it?! :-)  First, you can define the
+> word for vowel!  Since the EN and GE words (vowel and vokal) are from Latin, you
+> might want to make it a compound meaning "open sound".
+
+ Heheh...I could do that.  I finished the numbers, and some afiixes, and 
+tenses and stuff...man, this is fun!  I have but on request, can you tell 
+me about the Dutch person/number flections?  I cant find 'em anywhere.  
+Sorry my responses are so short now, but I have put the big one on 
+CONLANG.  
+
+  god daag! (or something like that!)
+
+  Dale
+
+
+----------------------------------------------------------------------
+
+
+From: "Harding, George E." <GHarding@ACS2.FMARION.EDU>
+Date: Fri, 08 Dec 95 11:40:00 EST
+Subject: CONLANG: Folkspraak
+
+Weak verbs without inflection in Swedish?  How about Afrikaans where NO verb 
+is irregular in the present, and few are in the past.  For example "wees" (to 
+be) is "conjugated":
+
+     ek is                 ons is
+     jy is                 julle is
+     hy, sy, dat is        hulle is
+                    u* is
+
+*u=honorific "you," borrowed from Dutch
+
+Eddy
+
+
+------------------------------
+
+From: pardoej@lonnds.ml.com (Julian Pardoe LADS LDN X1428)
+Date: Fri, 8 Dec 1995 19:01:48 GMT
+Subject: Re: CONLANG: Folkspraak
+
+> *u=honorific "you," borrowed from Dutch
+
+Hang on!  Isn't the whole of Afrikaans ``borrowed from Dutch''?
+
+- -- jP --
+
+------------------------------
+
+From: kaihsu@ugcs.caltech.edu (Kai-hsu TAI)
+Date: Fri, 8 Dec 1995 11:22:33 -0800 (PST)
+Subject: CONLANG: Re: CONLANG DIGEST V2 #82
+
+Jeffrey Henning wrote:
+
+> Folkspraak is a model language being designed as a common Germanic
+> language (an "Intergerman", if you will).  Once complete, Folkspraak
+
+Yes!  This should been done a long time ago!  Everyone is doing 
+Interromance, Interlatin, etc., forgetting the important Germanic 
+language!
+
+Skaal, Folkspraak!
+
+TE Khai-su
+Ka-chiu Li-kang Hak-iN, Hoa-hak, Ji-ni
+https://www.ugcs.caltech.edu/~kaihsu/
+kaihsu@ugcs.caltech.edu
+
+------------------------------
+
+From: "Harding, George E." <GHarding@ACS2.FMARION.EDU>
+Date: Fri, 08 Dec 95 14:32:00 EST
+Subject: CONLANG: German(ic) pronouns
+
+Edmund Grimley-Evans writes: "Do all Germanic languages have two forms of the 
+pronouns: subject & object?"
+
+Well, yes and no.  Yes, because the pronouns forms belong either to (but 
+perhaps not exclusively to) the subject forms or the object forms.  What I 
+mean by "not exclusively" is that some forms are shared, e.g., English "it" 
+as a subject or as an object form.
+
+No, because the object forms have subsets.  For example, in German there is 
+the _accusative set_, used for the direct object of most verbs, objects of 
+certain prepositions always and for other prepositions under specific 
+circumstances; the _dative set_, used for indirect objects, objects of 
+certain prepositions always and for other prepositions under specific 
+circumstances, direct objects of a few so-called dative verbs; and 
+_possessive pronouns_, similar to English "mine," "yours," "his," etc.  There 
+is even an archaic genitive pronoun set which is very rarely, if ever, used 
+now, e.g., "Ich erinnere mich seiner" ("I remember him") would probably be 
+written or spoken today as "Ich erinnere mich an ihn."  In all but the most 
+formal German, pronoun objects (and even noun objects!) of the _genitive 
+prepositions_, "wegen," "(an)statt," etc., are placed in the dative to 
+avoid the genitive forms.
+
+Subject pronouns:
+English                              German
+I                                    ich
+you=sing. (cf. thou)                 du=familiar only
+er                                   he
+she                                  sie
+it                                   es (er for masc. nouns, sie for fem.)
+                                     (also he or she for neuter nouns 
+                                     referring to persons, e.g., das 
+                                     Maennlein, das Maedchen) 
+man                                  [non-specific: someone, anyone, etc] 
+we                                   wir 
+you=pl.                              ihr=familiar only 
+they                                 sie (like Eng., sing. and pl.)
+[you]                                Sie=honorific, sing. and pl.
+
+Accusative
+me                                   mich
+you=sing.                            dich=familiar only
+him                                  ihn (also "it" for masc. nouns)
+her                                  sie (also "it" for fem. nouns)
+es                                   it (also him/her for neut. nouns)
+["man" exists solely as a nominative form, third person, sing.]
+us                                   uns
+you=pl.                              euch=familiar only
+them                                 sie
+[you]                                Sie=honorific, sing. and pl.
+
+Dative
+[to/for] me                          mir
+[to/for] you=sing.                   dir=familiar only
+[to/for] him                         ihm (also "it" for masc. nouns)
+[to/for] her                         ihr (also "it" for fem. nouns)
+[to/for] it                          ihm (also "him/her" for neut. nouns)
+[to/for] us                          uns
+[to/for] you=pl.                     euch=familiar only
+[to/for] them                        ihnen
+[to/for (you)]                       Ihnen=honorific, sing. and pl.
+
+Possessive pronouns
+mine                                 meiner, meine, mein(e)s, etc.*
+yours [cf. thine]=sing.              deiner, deine, dein(e)s, etc.=familiar
+his, its [masc. noun]                seiner, seine, sein(e)s, etc.
+her, its [fem. noun]                 ihrer, ihre, ihr(e)s, etc.
+its [neut. noun]                     seiner, seine, sein(e)s. etc.
+ours                                 uns(e)rer, uns(e)re, uns(e)r(e)s, etc.
+yours=pl.                            eu(e)rer, eu(e)re, eu(e)r(e)s, etc.=fam.
+theirs                               ihrer, ihre, ihr(e)s
+[yours]                              Ihrer, Ihre, Ihr(e)s=honorific, sing.
+                                        and pl.
+
+Eddy
+
+
+------------------------------
+
+From: "Harding, George E." <GHarding@ACS2.FMARION.EDU>
+Date: Fri, 08 Dec 95 15:49:00 EST
+Subject: CONLANG: Borrowings
+
+jP writes: "Hang on!  Isn't the whole of Afrikaans "borrowed from the Dutch"?
+
+Not hardly. Whereas certain constructions, vocabulary items, etc. are taken 
+from the language of the Netherlands, we could no more maintain that "the 
+whole" of Afrikaans is borrowed from the Dutch than, say, that English is 
+borrowed from Low German or that Haitian Creole is borrowed from French.
+
+This reminds me of one of my professors who, in noting that my Esperanto 
+dictionary had a section for "neologisms," said, "That's funny.  I thought 
+the whole language was a neologism!"
+
+Eddy
+
+
+------------------------------
+
+From: Christopher Hogan <chogan@NL.CS.CMU.EDU>
+Date: Fri, 8 Dec 1995 16:23:11 -0500 (EST)
+Subject: CONLANG: Folkspraak: help us create this language! (fwd)
+
+why not try to apply the lojban root construction algorithm to produce
+folkspraak vocabulary?  i realize that doing so would take the fun out
+of designing a conlang by committee, but i would be interesting to see
+the results.  would english drown out the rest of the languages? (with
+over three times as many speakers as the next most highly ranked
+language) what if you excluded english, as jeffrey seems to be doing
+when he requires that three languages, other than english, be used to
+create the roots.
+
+it seems to me that the method proposed here is trying to do
+essentially what the lojban algorithm does, although perhaps
+non-automatically (i dont remember how automatic the lojban algorithm
+is, but i would suppose that it was at least partially automated.
+furthermore, the algorithm as proposed here, seems to be ignoring the
+speaker populations by essentially considering all the languages as
+being equal.  the result, of language design by committee, as proposed
+here, will be, it seems to me, a language that, while easily readable
+to speakers of many non-english germanic languages, will be no more
+readable to speakers of english than those other languages are
+already.  this is important, because the vast majority of the germanic
+speakers speak english, and, as you have noted, english has an
+enormous majority if you count those who speak english as a second
+language.
+
+based on your initial vocabulary, my case does not seem very strong;
+for example, i would agree with your selection for 'spraak', 'maken',
+'kommen', 'seggen', 'gaan', habban', 'seen', 'senden', 'doon', 'given'
+and 'master'.  with 'beholden', i think one can start to see the kinds
+of problems that will arise.  based on the languages presented,
+'beholden' seems like the best choice for '!! keep', but certainly, if
+i didnt know german, i would have no way, as an english speaker to
+know that '!! keep' was meant (i'd be more likely to guess 'behold!'
+or at least 'hold'). but considering other words, what about 'kunst'
+(for !!art), or 'sache' (for !!thing), in short, what about for those
+words where english has lost its germanic cognate (or at least severly
+modified its meaning)?  the current proposal will select the
+non-english word in these cases (provided they are shared by several
+germanic languages), and again, the english speaker will be left no
+better off than if he or she tried to read german (or dutch).  while i
+will agree that there are a large number of cognates between the
+continental germanic languages and english, i think that an english
+speaker could just as easily be trained to recognize these in any
+given germanic language, as learn a new language.
+
+in short, i think that the position advocated here will result in a
+language that is inadequate, as measured by the standards of english
+speakers.  the position of english within the germanic languages is
+unlike anything in the romance languages: the potential population of
+speakers is so much larger in english that a pan-germanic conlang
+should in some way bias its contributions.
+
+like i said before, it would be interesting to see what the lojban
+algorithm comes up with for germanic.
+
+- --chris
+
+christopher m. hogan			          philosophy department
+chogan@cs.cmu.edu			           carnegie mellon univ
+computational linguistics		                 pittsburgh, pa
+
+      https://www.cs.cmu.edu/afs/cs/user/chogan/Web/HomePage.html
+
+------------------------------
+
+From: "Christopher B. Collins" <ccollins@pen.k12.va.us>
+Date: Fri, 8 Dec 95 20:31:32 EST
+Subject: Re: CONLANG: Folkspraak: help us create this language!
+
+According to the Folkspraakmeister, Jeffrey Henning:
+> principles.  The position of Folkspraakmaister has a three-month term,
+> with each Folkspraakmaister to be elected from within the
+> Folkspraakgeist community.  The first Folkspraakmaister is Jeffrey
+> Henning (langmaker@langmaker.com), with his term expiring 2/28/96.
+How are the elections to be held, candidates determined, etc.?
+This might pose a small problem since the Folkspraak community
+is probably going to be, for the most part, online.
+Wishing Folkspraak success,
+Chris Collins
+- -- 
+Chris Collins
+ccollins@pen.k12.va.us
+
+------------------------------
+
+From: Dale Morris <dmorris@tenet.edu>
+Date: Fri, 8 Dec 1995 21:22:23 -0600 (CST)
+Subject: CONLANG: Folkspraak words
+
+   I decided to work some on Folspraak, and began with the more basic 
+elements.  Once I can get complete inflectional information I can start 
+to work on verbs (may take some time...).  Any mistakes are my fault and 
+I welcome criticism :-).
+
+
+   Here is my proposed Folkspra(a)k number system.  (BTW I move for 
+Folksprak).
+
+1  en
+2  twe
+3  dre
+4  fier
+5  femf
+6  seks
+7  seven
+8  act
+9  nen
+10 tien
+11 elfe
+12 tolf
+13 dretien
+14 fiertien
+15 femftien
+16 sekstien
+17 seventien
+18 actien
+19 nentien
+20 twintig
+21 enuntwintig
+22 tweuntwenteg
+...
+30   derdig
+40   fiertig
+50   femftig
+60   sekstig
+70   seventig
+80   acttig
+90   nentig
+100  hunderd
+1000  tusend
+
+Here is the source data for the numbers:
+
+# 	Danish		Dutch		German
+1	en/et		een		ein/eine
+2	to		twee		zwei
+3	tre		drie		drei
+4	fire		vier		vier
+5	fem		vijf		fu:nf
+6	seks		zes		sechs
+7	syv		zeven		sieben
+8	otte		acht		acht
+9	ni		negen		neun
+10	ti		tien		zehn
+11	elleve		elf		elf
+12	tolv		twaalf		zwo:lf
+13	tretten		dertien		dreizehn
+14	fjorten		veertien	vierzehn
+15	femten		vijftien	fu:nzehn
+16	sejsten		zestien		sechzehn
+17	sytten		zeventien	siebzehn
+18	atten		achttien	achtzein
+19	nitten		negentien	neunzehn
+20	tyve		twintig		zwanzig
+21	en og tyve	een en twintig	einundzwanzig
+22	to og tyve	twee en twintig	zweiundzwansig
+30	tredive		dertig		dreissig
+40	fyrre		veertig		vierzig
+50	halvtres	vijftig		fu:nfzig
+60	tres		zestig		sechszig
+70	halvfjers	zeventig	siebezig
+80	firs		tachtig		achtzig
+90	halvfems	negentig	neunzig
+100	hundrede	honderd		hundert
+1000	tusinde		duizend		tausend
+	
+
+
+
+WORD BUILDING.
+Many Germanic langs share prefixes and suffixes that are quite simmilar:
+		Danish	Dutch	German		Folkspraak
+King(dom)	-dom	-dom	-tum		-dom
+Write(er)	-er	-er	-er		-er
+Father(hood)	-hed	-heid	-heit		-het
+Warn(ing)	-ing	-ing	-ung		-ing
+King(ness)	----	-nis	-nis		-nis
+Friend(ship	-skab	-schap	-schaft		-skap/-scap (dont know which)
+
+Wish(ful)	-fuld	-vol	-voll		-fol
+Hell(ish)	-isk	-isch	-isch		-ic
+Life(less)	-los	-loos	-los		-los
+Lone(ly)	-lig	-lijk	-lich		-lic
+Loath(some)	-som	-zaam	-sam		-som
+Dust(y)		-ig	-ig	-ich/ig		-ig
+(Un)kind)	u-	on-	-un-		-un		
+
+home(ward)	----	-waarts	-wa:rts		-warts
+like(wise)	-vis	-wijze	-weise		-wis
+
+(be)hold	be-	be-	be-		be-
+(for)bid	for	ver	ver		fer-
+(fore)see	fore	voor	vor		fore-
+(mis)take	mis-	mis-	miss-		mis-
+  Between fer- and vore-, the F and V should be the same, I havent 
+figured out exactly which one.  i think the best way to solve the f/v 
+question is to consult the more minor langs.  Usually there is a tie in 
+this case.
+
+
+  Justification:
+
+  I took a looked at the similarities between Dutch, Danish, German, and 
+English, using the most common features.  In some cases this is hard, the 
+Danish and English are not always in concordance exactly with German and 
+Dutch (which are, more often).  The main problem I see is whether to choose 
+voiced or unvoiced in the common pairs (t/d) and (f/v).  For now I based 
+it on how many languages shared the feature and went on plurality.  I 
+also used no accented vowels, and used "k" for hard k and "c" for the 
+"ch" in Bach.  I did not use "j" when it was in a dipthong.
+
+  I think that in taking words into Folkspraak, they should conform first 
+to its alphabet.  Taking the German Z into TS, for example, maybe?  I 
+dont know.  And with vowels I personally think that five simple 
+(a,e,i,o,u) vowels are enough.  Maybe it needs more.  But that would add 
+dificulty to printing them in computer media (unless doubling is used, 
+like the "aa" in Folkspraak.
+
+BASIC VOWELS
+   a	"a" in father
+   e	"e" in bet
+   i	"i" in machine
+   o	"o" in code
+   u	"u" in rude
+
+COMPLEX (well, two-letter anyway)
+   aa	"a" in flat (Debating this)
+
+perhaps an umlaut vowel is needed (pronounced as "i/e" with lip rounding).  
+This could be:
+   uu
+
+CONSONANTS:
+bdfhklmnprstvw are as in english
+
+g is always hard
+j is like a "y" (I dont know if a "j" is needed)
+c is like "ch" in Bach
+ng is like "begining"
+
+  That's 17 consonants and 5-7 vowels.
+
+It seems to me that when ever one language uses a vowel with a diacritic, 
+many times the others do not (in the same cognate word).  Another big 
+problem is deciding when to use A and when to use AA.  I would like to work 
+out a mathematical scheme for combining vowel sounds from the four 
+languages, but I know not much about such things.  Any help would be 
+truly appreciated.
+
+VERB TENSES
+   Should be regularly formed off of the infinitive.  Notice the Swedish 
+pattern of tense:
+
+ att kalla		to call
+
+jag kallar		i call
+ "  kallade		i called
+ "  har kallat		i have called
+ "  skal kalla		i shall call
+ "  skulle kalla	i should call
+
+Providing the other langs be similar, I think the tenses should be:
+
+WEAK
+  infinitive    STEM+er/ar
+  present	STEM+person/#
+  past		hab STEM+person/#
+  future	skol STEM+person/#
+
+habe and skol could be particles, not inflecting at all
+
+STRONG
+  inf      PRES STEM+er/ar
+  pre      PRES STEM+p/#
+  pas      PRET STEM+p/#
+  pas part hab PART STEM+p/#
+  fut      skol PRES STEM+p/#
+
+(Wait...I seem to remember the Folkspraakmaister saying no inflection of 
+the strong...hmmm...)
+
+Person and Number Inflection.
+
+   On this one, Ill just present the info I have first.
+
+Bible English:
+
+I am		We are
+Thou art	You are
+He is		They are
+
+   That's it!!  I would like to have some more in this formatt.  
+
+
+CONCLUSION
+
+So these are my beliefs on Folkspraak.
+
+More later, I hope!
+
+Dale
+
+
+------------------------------
+
+From: Dale Morris <dmorris@tenet.edu>
+Date: Fri, 8 Dec 1995 22:49:37 -0600 (CST)
+Subject: CONLANG: Whoops
+
+   Regaurding my previous post, In the section on tenses the infinitve is 
+formed by -en or -an, not -er or -ar (my mind is on Latin or something)!  
+Also I would like to credit _The Loom of Language_ and the _Cambridge 
+Encyclopedia of Language_ as my two main sources of info.
+
+   Erare Humam Est.
+
+   Dale Morris
+
+
+------------------------------
+
+From: dasher@NETCOM.COM (Anton Sherwood)
+Date: Fri, 8 Dec 1995 20:50:58 -0800
+Subject: CONLANG: Folkspraak, Tutonish
+
+> > Folkspraak is a model language being designed as a common Germanic
+> > language (an "Intergerman", if you will).  Once complete, Folkspraak
+> > should be quickly learnable by any native speaker of a Germanic language
+> > (see table below), a group numbering over 465 million speakers (with an
+> > additional 300 to 900 million speaking English as a second language).
+> 
+> Yes!  This should been done a long time ago!  Everyone is doing 
+> Interromance, Interlatin, etc., forgetting the important Germanic 
+> language!
+
+I thought it _was_ done a long time ago.  But how about Interslavic?
+
+	Kiomgrade reakciaj kaj kontrawaj al la internaciisma principo povas
+	farigxi la tendencoj en la fako de la prilaboro de artefarita lingvo
+	- tion ilustras la ideoj de la norvego-usonano Elias Molee.  En la
+	j. 1888 Molee faris skizan planon por tutamerika lingvo kun anglo-
+	germana bazo ["Plea for an american language, or Germanic-English",
+	Chicago, 1888].  Post 15 jaroj li publikigis detale prilaboritan
+	sistemon de la lingvo "Tutonish" ["Tutonish or anglo-german union
+	tongue", Chicago, 1902; de la sama: "Tutonish - a teutonic
+	international language", Tacoma, 1904].  La celo de la lasta estis
+	akceli reunuigxon de la germanrasaj popoloj.  Law la penso de l'
+	awtoro, aparta diplomatia konferenco de koncernaj registaroj devus
+	akcepti tiun intergermanan lingvon.  Molee intence limigas la rolon
+	de universala lingvo kaj estas ema transformi gxin je simpla ilo
+	por hegemonio de unu nacio, aw nacigrupo.  Li ecx estias deziranta
+	renkonti la aperon de analogia interlatinida lingvo, kondicxe, ke
+	tio ne gxenu la popolojn anglo-germanajn.
+
+	Kiel cxefa materialo por la projekto "Tutonish" servis lingvo angla,
+	sed kun granda almikso de elementoj prenitaj el lingvo germana.  Por
+	ilustri la aspekton de tiu cxi perfektigita miksita lingvo, ni prenu
+	la frazon: _dis sprak must bi so rein tutonish as mogli_ (tiu cxi
+	lingvo devas esti tiom pure tewtona, kiom eble).
+
+	Pli malfrue en la j.1911, 1915 ktp. E. Molee dawrigis publikigadon
+	de similaj projektoj, atribuante al ili cxiufoje novan nomon.
+
+Drezen: "Historio de la Mondolingvo" (kvara Esperanto-eldono, 1991) p.224-225
+
+------------------------------
+
+From: dasher@NETCOM.COM (Anton Sherwood)
+Date: Fri, 8 Dec 1995 22:58:43 -0800
+Subject: CONLANG: borrowings
+
+jP writes:
+> Hang on!  Isn't the whole of Afrikaans "borrowed from the Dutch"?
+
+It's still useful to distinguish shared history from post-divergence
+innovations which the other branch later borrowed.  (I have no idea
+whether the element in question is such a borrowing.)
+
+Anton Sherwood   *\\*   +1 415 267 0685   *\\*   DASher@netcom.com
+
+------------------------------
+
+FROM:	Jeffrey Henning, 74774,157
+TO:	Christopher Hogan, INTERNET:chogan@NL.CS.CMU.EDU
+CC:	Conlang, INTERNET:conlang@diku.dk
+DATE:	12/10/95 5:43 PM
+
+Re:	Copy of: CONLANG: Folkspraak: help us create this language! (fwd)
+
+Christopher Hogan <chogan@NL.CS.CMU.EDU> writes:
+
+>>why not try to apply the lojban root construction algorithm to produce
+>>folkspraak vocabulary?  
+
+Why not?!  Why don't you give it a go on a few dozen words, Christopher? :-)
+
+
+>>i realize that doing so would take the fun out
+>>of designing a conlang by committee, but i would be interesting to see
+>>the results.  
+
+Keeping in mind that a camel is a horse designed by a committee, the goal is for individuals to coin their own 
+words, based on a reasoned examination of a sample of the pan-Germanic vocabulary.  The fun will come 
+when defining words without common cognates;  in such cases compounds are called for.  How should the 
+meaning "personal computer" be defined, for instance?  Or "football (American-style)"?  Or even "vowel" or 
+"consonant"?
+
+
+>>what if you excluded english, as jeffrey seems to be doing
+>>when he requires that three languages, other than english, be used to
+>>create the roots.
+
+When I said in our proposal --
+"listing your proposed word, its meaning and its form in three other
+Germanic languages (besides English)" --
+I meant _besides_ as "in addition to," since the English word is already present in the meaning (more or 
+less).  Sorry about the confusion.
+
+>>furthermore, the algorithm as proposed here, seems to be ignoring the
+>>speaker populations by essentially considering all the languages as
+>>being equal.  the result, of language design by committee, as proposed
+>>here, will be, it seems to me, a language that, while easily readable
+>>to speakers of many non-english germanic languages, will be no more
+>>readable to speakers of english than those other languages are
+>>already.  
+
+Well, look at the population figures again, this time in order of size and with the percent of the overall percent.
+
+EN - English	325,000,000	70.1%
+GE - German	98,000,000	21.1%
+DU - Dutch	17,500,000	3.8%
+SW - Swedish	8,300,000	1.8%
+DA - Danish	5,100,000	1.1%
+AF - Afrikaans	4,500,000	1.0%
+NO - Norwegian	4,300,000	0.9%
+YI - Yiddish	350,000	0.1%
+FR - Frisian	300,000	0.1%
+IC - Icelandic	240,000	0.1%
+FA - Faroese	40,000	0.0%
+	463,630,000	100.0%
+
+How can any one interlanguage take this into account?  You could have:
+1)  Basic Germanized English Model - Basic English vocabulary and grammar with a phonology and 
+orthography simplified so that it would be more understandable to speakers of other Germanic languages.  
+Perceived flaws of Basic English would be corrected, such as its reliance on idioms.
+2)  Anglo-German Model - Similar to #1 but just for the English and German languages, which account for 
+91.2% of the native speaker population.
+3)  Pan-German Model - A language designed to represent the "center of gravity" of current Germanic 
+languages, with the learning curve for any speaker determined by the distance of their native language from 
+the "center of gravity".
+
+I think Folkspraak should embrace the Pan-German Model, simply because anything else seems too 
+"Englishy", though I welcome debate on this.
+
+
+>>this is important, because the vast majority of the germanic
+>>speakers speak english, and, as you have noted, english has an
+>>enormous majority if you count those who speak english as a second
+>>language.
+
+This is a good point, but then what do we design?  The Basic Germanized English Model?
+
+
+>>modified its meaning)?  the current proposal will select the
+>>non-english word in these cases (provided they are shared by several
+>>germanic languages), and again, the english speaker will be left no
+>>better off than if he or she tried to read german (or dutch).  
+
+Well, the English speaker will be better off than reading German or Dutch because the spelling system of 
+Folkspraak will have one symbol/one sound (a symbol may be a digraph), will have a completely regular 
+grammar and will have a core vocabulary from which compounds are then formed (so only need to master a 
+finite set of words and affixes).
+
+>>in short, i think that the position advocated here will result in a
+>>language that is inadequate, as measured by the standards of english
+>>speakers.  
+
+Your implicit assumption almost seems to be "Any language other than English is inadequate."  Now I know 
+you don't feel that, but I need to understand your point of view more -- what are ways to make the language 
+acceptable to English speakers?
+
+>>like i said before, it would be interesting to see what the lojban
+>>algorithm comes up with for germanic.
+
+I agree that it would be interesting and I would love you to see you post an experiment to this list.
+
+
+>>computational linguistics		                 pittsburgh, pa
+
+Before I can assign the proper weight to your arguments, I need to know whether or not you are a Steelers fan. 
+ :-)
+
+Regards,
+Jeffrey
+
+------------------------------
+
+FROM:	Jeffrey Henning, 74774,157
+TO:	William W. Collins, 72624,3140
+CC:	Conlang, INTERNET:conlang@diku.dk
+DATE:	12/10/95 5:56 PM
+
+Re:	Copy of: CONLANG:  Folkspraak
+
+The indefatigable Chris Collins writes:
+
+>>> principles.  The position of Folkspraakmaister has a three-month term,
+>>> with each Folkspraakmaister to be elected from within the
+>
+>How are the elections to be held, candidates determined, etc.?
+>This might pose a small problem since the Folkspraak community
+>is probably going to be, for the most part, online.
+
+The vote will be a public vote -- no hidden ballot.  Posted by e-mail to the list for all 
+to see.
+
+But feel free to suggest and write up more formal guidelines.
+
+I'd love to see you contribute something to Folkspraak -- maybe a list of 
+prepositions, or something else.
+
+Cheers!
+Jeffrey
+
+------------------------------
+
+FROM:	Jeffrey Henning, 74774,157
+TO:	Conlang, INTERNET:conlang@diku.dk
+CC:	Dale Morris, INTERNET:dmorris@tenet.edu
+DATE:	12/10/95 6:14 PM
+
+Re:	Copy of: CONLANG: Folkspraak words
+
+Dale Morris <dmorris@tenet.edu> writes:
+
+>>   Here is my proposed Folkspra(a)k number system.  
+...
+>>  WORD BUILDING.
+
+Cool!
+
+>>  Between fer- and vore-, the F and V should be the same, I havent 
+>>figured out exactly which one.  
+
+I'd side with English F.
+
+(BTW I move for 
+Folksprak).
+
+
+>>  I think that in taking words into Folkspraak, they should conform first 
+>>to its alphabet.  Taking the German Z into TS, for example, maybe?  
+
+German orthography is different than English:  spellings 'b' & 'd' & 'g' are /p/ & /t/ & /k/ 
+when final in a word for instance.  Do you want to base the Folkspraak word on the 
+spelling or pronunciation?
+
+>>BASIC VOWELS
+I think you could certainly have more vowels -- I would include any vowel that is 
+present in the top five Germanic languages, say.
+
+>>j is like a "y" (I dont know if a "j" is needed)
+English + Yiddish use Y.  German + Swedish use J.  What does Dutch or 
+Norwegian use?
+
+>>c is like "ch" in Bach
+I don't think this sound belongs at all, since it is not present in standard English, on 
+the principal of ruling out sounds absent from any leading Germanic language.
+
+
+>>VERB TENSES
+
+I think this is great.  I would just make every verb a weak verb -- i.e., make all the 
+verbs regular.
+
+
+>>Person and Number Inflection.
+
+I do away with this altogether, given the posting on Afrikaans.
+
+Thanks for all the good ideas!
+
+Jeffrey
+
+
+
+VIS000
