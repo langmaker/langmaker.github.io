@@ -499,11 +499,11 @@ P('<input name="Qtitle" type="hidden" value="' + Lex_gt[0].root + Lex_gt[1].root
 P('<input name="Qsubtitle" type="hidden" value="n.">');
 P('<input name="Qetymology" type="hidden" value="' + Lex_gt[0].gloss + "+" + Lex_gt[1].gloss + '">');
 
-P('<p><b>' + Lex_gt[0].root + Lex_gt[1].root + '</b> (noun) [From <a href="https://www.langmaker.com/x.htm#' + Lex_gt[0].root + '">' + Lex_gt[0].root + '</a>, "' + Lex_gt[0].gloss + '", and <a href="https://www.langmaker.com/x.htm#' + Lex_gt[1].root + '">' + Lex_gt[1].root + '</a>, "' + Lex_gt[1].gloss + '".]');
+P('<p><b>' + Lex_gt[0].root + Lex_gt[1].root + '</b> (noun) [From <a href="https://x.htm#' + Lex_gt[0].root + '">' + Lex_gt[0].root + '</a>, "' + Lex_gt[0].gloss + '", and <a href="https://x.htm#' + Lex_gt[1].root + '">' + Lex_gt[1].root + '</a>, "' + Lex_gt[1].gloss + '".]');
 P('<br><input name="Qdefinition" type="text" size="50"></p>');
 
 // request contact information
-P('<P>Please enter the following contact information so that you may be credited with these terms in the <a href="https://www.langmaker.com/db/rsc_dublexcompounds.htm">official dictionary</a> (if you were the first to submit them).</P>');
+P('<P>Please enter the following contact information so that you may be credited with these terms in the <a href="https://db/rsc_dublexcompounds.htm">official dictionary</a> (if you were the first to submit them).</P>');
 // ask for e-mail address
 P('<input type="text" name="Qemailaddress"> E-mail Address <i>(Optional)</i><BR>');
 // ask for initials
@@ -511,6 +511,6 @@ P('<input type="text" name="Qsubmitted"> Your First, Middle & Last Initials <i>(
 // print out submit button
 P("<P><INPUT type=submit value='Submit'>"); //&nbsp;<INPUT type=reset value='I Decline'></P>");
 // print out close of form
-P("<INPUT type=hidden name=PDCPDCThkYouPag value='{HTML}{HEAD}{TITLE}Thanks for Playing!{/TITLE}{/HEAD}{BODY}{H1}The Dublex Game{/H1}{P}Thanks for playing! Why not {a href=https://www.langmaker.com/addnewdublex.htm}play again{/a}?{/P}{SCRIPT src=https://www.langmaker.com/dublexgame2.js}{/SCRIPT}{/P}{/BODY}'");
+P("<INPUT type=hidden name=PDCPDCThkYouPag value='{HTML}{HEAD}{TITLE}Thanks for Playing!{/TITLE}{/HEAD}{BODY}{H1}The Dublex Game{/H1}{P}Thanks for playing! Why not {a href=https://addnewdublex.htm}play again{/a}?{/P}{SCRIPT src=https://dublexgame2.js}{/SCRIPT}{/P}{/BODY}'");
 P("</FORM>");
 
