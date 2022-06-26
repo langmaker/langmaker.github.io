@@ -503,7 +503,7 @@ P('<p><b>' + Lex_gt[0].root + Lex_gt[1].root + '</b> (noun) [From <a href="https
 P('<br><input name="Qdefinition" type="text" size="50"></p>');
 
 // request contact information
-P('<P>Please enter the following contact information so that you may be credited with these terms in the <a href="https://db/rsc_dublexcompounds.htm">official dictionary</a> (if you were the first to submit them).</P>');
+P('<P>Please enter the following contact information so that you may be credited with these terms in the <a href="/db/rsc_dublexcompounds.htm">official dictionary</a> (if you were the first to submit them).</P>');
 // ask for e-mail address
 P('<input type="text" name="Qemailaddress"> E-mail Address <i>(Optional)</i><BR>');
 // ask for initials
